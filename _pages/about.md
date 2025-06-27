@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a second year PhD student in the Operations Research and Financial Engineering department at Princeton University.
+I am currently a first year PhD student in the Operations Research and Financial Engineering department at Princeton University.
 
 My research interests lie primarily in optimization and machine learning, in particular mixed integer optimization, algorithm design and verification, bilevel optimization, and real-time optimization. 
 
