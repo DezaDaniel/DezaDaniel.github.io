@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Quick Links"
+  name             : "Info"
   pronouns         : # example: "she/her"  
   bio              : "PhD student at Princeton University"
   location         : "Princeton, NJ, USA"
