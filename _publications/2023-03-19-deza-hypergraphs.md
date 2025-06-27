@@ -1,7 +1,7 @@
 ---
 title: "Separable and Equatable Hypergraphs"
 collection: publications
-category: journal
+category: Journal Articles
 permalink: /publication/2023-deza-hypergraphs
 excerpt: "We study separable and equatable k-hypergraphs, establishing key structural and complexity results across several matroid classes."
 date: 2023-03-19
