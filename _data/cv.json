@@ -98,7 +98,7 @@
       "publisher": "ICML 2026",
       "releaseDate": "2026-07-06",
       "website": "https://arxiv.org/abs/2602.04378",
-      "summary": "We prove a constructive Omega(1/sqrt(epsilon)) lower bound for Frank-Wolfe over smooth and strongly convex objectives and constraint sets."
+      "summary": "We prove a constructive \\(\\Omega(1/\\sqrt{\\varepsilon})\\) lower bound for Frank-Wolfe over smooth and strongly convex objectives and constraint sets."
     }
   ],
   "presentations": [
