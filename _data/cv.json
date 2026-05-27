@@ -92,6 +92,13 @@
       "releaseDate": "2024-02-17",
       "website": "http://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "Lower Bounds for Frank-Wolfe on Strongly Convex Sets",
+      "publisher": "ICML 2026",
+      "releaseDate": "2026-07-06",
+      "website": "https://arxiv.org/abs/2602.04378",
+      "summary": "We prove a constructive Omega(1/sqrt(epsilon)) lower bound for Frank-Wolfe over smooth and strongly convex objectives and constraint sets."
     }
   ],
   "presentations": [
