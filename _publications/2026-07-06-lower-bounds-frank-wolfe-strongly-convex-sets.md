@@ -3,7 +3,7 @@ title: "Lower Bounds for Frank-Wolfe on Strongly Convex Sets"
 collection: publications
 category: conferences
 permalink: /publication/2026-lower-bounds-frank-wolfe-strongly-convex-sets
-excerpt: "We prove a constructive Omega(1/sqrt(epsilon)) lower bound for Frank-Wolfe over smooth and strongly convex objectives and constraint sets."
+excerpt: 'We prove a constructive \(\Omega(1/\sqrt{\varepsilon})\) lower bound for Frank-Wolfe over smooth and strongly convex objectives and constraint sets.'
 date: 2026-07-06
 venue: 'ICML 2026'
 paperurl: 'https://arxiv.org/abs/2602.04378'
