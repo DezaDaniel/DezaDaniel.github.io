@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a second year PhD student in [Bartolomeo Stellato's group](https://stella.to/) at Princeton's  Operations Research and Financial Engineering department.
+I am currently a third year PhD student in [Bartolomeo Stellato's group](https://stella.to/) at Princeton's  Operations Research and Financial Engineering department.
 
 My research interests lie primarily in optimization and machine learning, in particular mixed integer optimization, algorithm design and verification, bilevel optimization, and real-time optimization. 
 
